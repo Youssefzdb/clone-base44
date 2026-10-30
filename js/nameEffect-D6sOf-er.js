@@ -1,0 +1,1 @@
+function e(e){return e?`shimmer-text b44-name-effect--${e.color}`:void 0}export{e as t};

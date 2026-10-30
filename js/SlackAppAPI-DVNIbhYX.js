@@ -1,0 +1,1 @@
+import{n as e}from"./base-eBCdTrda.js";var t=new class extends e{constructor(...e){super(...e),this.config={headers:{"X-Skip-Active-Workspace":`1`}}}getBaseURL(){return`/slack-app`}initiateInstall(){return this.axios.post(`/install`,{},this.config)}finalizeInstall(e){return this.axios.post(`/finalize`,{pending_id:e},this.config)}};export{t};

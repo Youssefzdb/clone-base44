@@ -1,0 +1,1 @@
+function e(e={}){return Object.fromEntries(Object.entries(e).filter(([,e])=>!(e==null||e===``||Array.isArray(e)&&e.length===0)))}function t(e={}){let t=new URLSearchParams;for(let[n,r]of Object.entries(e))if(Array.isArray(r))for(let e of r)t.append(n,String(e));else t.append(n,String(r));return t.toString()}export{t as n,e as t};

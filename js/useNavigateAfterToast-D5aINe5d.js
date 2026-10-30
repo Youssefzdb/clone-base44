@@ -1,0 +1,1 @@
+import{o as e}from"./rolldown-runtime-C0FnF6B9.js";import{p as t,x as n}from"./vendor-react-BOOIA4XI.js";var r=e(n()),i=2e3;function a(){let e=t(),n=(0,r.useRef)(null);return(0,r.useEffect)(()=>()=>{n.current&&clearTimeout(n.current)},[]),(0,r.useCallback)((t,r,a=i)=>{n.current&&clearTimeout(n.current),n.current=setTimeout(()=>e(t,r),a)},[e])}export{a as t};

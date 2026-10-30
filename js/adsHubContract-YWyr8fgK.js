@@ -1,0 +1,1 @@
+async function e(e){let t=[],n;for(let r=0;r<50;r+=1){let r=await e(n);if(t.push(...r.items),!r.next_cursor)break;n=r.next_cursor}return t}export{e as t};

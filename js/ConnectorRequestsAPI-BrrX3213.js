@@ -1,0 +1,1 @@
+import{n as e}from"./base-BUR4mFpr.js";var t=new class extends e{getBaseURL(){return`/connector-requests`}create(e){return this.axios.post(``,e)}};export{t};

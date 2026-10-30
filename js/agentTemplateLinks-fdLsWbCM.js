@@ -1,0 +1,1 @@
+var e=`agent_template_links_disabled`;export{e as t};

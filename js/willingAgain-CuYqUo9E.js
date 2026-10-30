@@ -1,0 +1,1 @@
+var e=[`unknown`,`yes`,`no`],t=e=>e===null?`unknown`:e?`yes`:`no`,n=e=>e===`unknown`?null:e===`yes`;export{n,t as r,e as t};

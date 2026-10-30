@@ -1,0 +1,1 @@
+import{v as e}from"./vendor-react-BOOIA4XI.js";import{Z as t}from"./apiErrors-BNwL6S8o.js";import{J as n}from"./index-DSyBe3BM.js";var r=e();function i({children:e}){let i=n();return(0,r.jsx)(t,{mode:i,className:`contents`,children:e})}export{i as t};

@@ -1,0 +1,1 @@
+import{p as e}from"./mixpanelUtils-C9T6q90P.js";import{tt as t}from"./cant-radio.store-DV7XPNKK.js";import"./useFeatureFlags-CJqvC5Zq.js";import"./app-domains-ciTsTGrj.js";var n=async n=>{if(!n)return`entri`;try{return(await t.getPurchaseProvider({appId:n})).provider}catch(t){return e(`Domain - Purchase provider lookup failed`,{appId:n,error:t?.message}),`entri`}};export{n as t};

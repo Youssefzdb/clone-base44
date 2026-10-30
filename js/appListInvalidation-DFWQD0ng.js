@@ -1,0 +1,1 @@
+var e=null;function t(){return e||=new BroadcastChannel(`app-list-updates`),e}function n(){return t()}function r(){e&&=(e.close(),null)}function i(){t().postMessage({type:`invalidate`})}export{n,i as r,r as t};

@@ -1,0 +1,1 @@
+var e=[`security`,`code`,`api`,`app-listing`],t=t=>e.includes(t);export{t};

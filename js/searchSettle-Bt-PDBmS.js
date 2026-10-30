@@ -1,0 +1,1 @@
+var e=e=>e.toLowerCase().replace(/\S*(@|\/|\?|=|&|\.[a-z]{2,}\b)\S*/g,` `).replace(/\+?\d(?:[^\p{L}\d]*\d){3,}/gu,` `).replace(/\s+/g,` `).trim().slice(0,60).trim(),t=1500;export{e as n,t};

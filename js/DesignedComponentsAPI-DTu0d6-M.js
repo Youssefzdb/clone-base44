@@ -1,0 +1,1 @@
+import{n as e}from"./base-BUR4mFpr.js";var t=new class extends e{getBaseURL(){return`/designed-components`}list(e={}){return this.axios.get(``,{params:e})}getCategoriesAndLabels(){return this.axios.get(`/categories-and-labels`)}};export{t};

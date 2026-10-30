@@ -1,0 +1,1 @@
+var e=`plaid_link_pending`;function t(t){window.localStorage.setItem(e,JSON.stringify(t))}function n(){let t=window.localStorage.getItem(e);if(!t)return null;try{let e=JSON.parse(t);return e?.appId?e:null}catch{return null}}function r(){window.localStorage.removeItem(e)}function i(e){return e.includes(`oauth_state_id`)}export{t as i,i as n,n as r,r as t};

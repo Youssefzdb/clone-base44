@@ -1,0 +1,1 @@
+var e=`display-4`;export{e as t};

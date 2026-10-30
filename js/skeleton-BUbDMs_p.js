@@ -1,0 +1,1 @@
+import"./rolldown-runtime-C0FnF6B9.js";import{v as e,x as t}from"./vendor-react-BOOIA4XI.js";import{t as n}from"./utils-5ZRoP5r8.js";t();var r=e();function i({className:e,...t}){return(0,r.jsx)(`div`,{className:n(`animate-pulse rounded-md bg-muted`,e),...t})}export{i as t};

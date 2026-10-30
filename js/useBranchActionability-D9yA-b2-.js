@@ -1,0 +1,1 @@
+import{d as e}from"./useImportedOpenInNewTab-ChQSPxQ3.js";import{qn as t,r as n}from"./AppContext-CReki4ul.js";import{n as r}from"./GitHubWriteAccessProvider-BiRo7N9I.js";function i(){let i=!!r()?.restriction,{currentBranchId:a,currentBranchStatus:o,isCreatingBranch:s,isBranchComposerScope:c}=n(),l=e();return{canPublish:!c&&!l,canRestore:!i&&t(a,o,s)}}export{i as t};

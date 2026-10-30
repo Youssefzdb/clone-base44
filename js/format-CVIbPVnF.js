@@ -1,0 +1,1 @@
+function e(e){return e==null?`—`:`${(e*100).toFixed(1)}%`}function t(e){return e==null?`—`:e.toLocaleString()}function n(e){return e?{since:e.from,until:e.to}:{}}export{e as n,n as r,t};

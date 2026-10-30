@@ -1,0 +1,1 @@
+import{n as e}from"./I18nProvider-B89ak-oG.js";import{M as t,r as n}from"./AppContext-CajM4h_8.js";function r(r){let i=n(),{t:a,currentLang:o}=e(`editor`),s=t(r??i?.app??null);if(s)return{label:a(`chat.autoPromotionFree`),expiresLabel:a(`chat.autoPromotionExpires`,{date:new Intl.DateTimeFormat(o,{dateStyle:`medium`,timeStyle:`short`}).format(new Date(s))})}}export{r as t};

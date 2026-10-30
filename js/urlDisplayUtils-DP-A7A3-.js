@@ -1,0 +1,1 @@
+function e(e){try{let t=new URL(e),n=t.hostname.replace(/^www\./,``)+t.pathname.replace(/\/$/,``);return n.charAt(0).toUpperCase()+n.slice(1)}catch{return e?.replace(/^https?:\/\//,``)||e}}function t(e,t=64){try{return`https://www.google.com/s2/favicons?domain=${new URL(e).hostname}&sz=${t}`}catch{return null}}export{e as n,t};

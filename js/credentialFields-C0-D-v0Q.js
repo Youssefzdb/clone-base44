@@ -1,0 +1,1 @@
+var e=e=>typeof e==`object`&&!!e&&!Array.isArray(e);function t(t){let n=t.auth,r=e(n)?n.platform_credentials:void 0,i=e(r)?r.fields:void 0;return Array.isArray(i)?i.flatMap(t=>e(t)&&typeof t.name==`string`&&typeof t.display_name==`string`?[{name:t.name,display_name:t.display_name}]:[]):[]}export{t};

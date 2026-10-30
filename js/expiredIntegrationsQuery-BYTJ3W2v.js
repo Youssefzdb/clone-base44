@@ -1,0 +1,1 @@
+import{o as e}from"./rolldown-runtime-C0FnF6B9.js";import{x as t}from"./vendor-react-BOOIA4XI.js";import{S as n}from"./vendor-data-DCUikwl_.js";var r=e(t()),i=`app-expired-integrations`;function a(e){return[i,e]}function o(){let e=n();return(0,r.useCallback)(t=>{t&&e.invalidateQueries({queryKey:a(t)})},[e])}export{o as n,a as t};

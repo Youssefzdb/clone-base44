@@ -1,0 +1,1 @@
+import{Cn as e}from"./cant-radio.store-DV7XPNKK.js";var t=new class extends e{getBaseURL(){return`/integration-catalog-items`}};export{t};

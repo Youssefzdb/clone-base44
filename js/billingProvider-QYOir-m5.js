@@ -1,0 +1,1 @@
+var e={stripe:`Stripe`,wix:`Wix Premium`,apple:`Apple App Store`,google_play:`Google Play`,none:`No billing`},t=t=>e[t],n=e=>!e||e===`stripe`||e===`none`,r=e=>!e,i=e=>`https://dashboard.stripe.com/customers/${e}`,a=e=>e?`https://bo.wix.com/wix-billing/web/redirect/serviceByExternalId?externalId=${encodeURIComponent(e)}`:null;export{n as a,i,t as n,a as r,r as t};

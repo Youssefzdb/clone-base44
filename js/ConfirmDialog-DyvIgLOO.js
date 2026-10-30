@@ -1,0 +1,1 @@
+import{v as e}from"./vendor-react-BOOIA4XI.js";import{El as t}from"./cant-radio.store-DV7XPNKK.js";var n=e();function r(e){return(0,n.jsx)(t,{align:`left`,...e})}export{r as t};

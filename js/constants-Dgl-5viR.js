@@ -1,0 +1,1 @@
+var e=/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/,t=/^[\p{L}\s'\-]*$/u,n=[{cents:2e3,label:`$20`},{cents:5e3,label:`$50`},{cents:1e4,label:`$100`},{cents:2e4,label:`$200`}],r=2e3,i=5e4;export{t as a,e as i,i as n,r,n as t};

@@ -1,0 +1,1 @@
+var e=`base44_logout_return_path`,t=!1;function n(n){try{window.sessionStorage.setItem(e,n),t=!0}catch{}}function r(){if(t)return null;try{return window.sessionStorage.getItem(e)}catch{return null}}function i(){try{window.sessionStorage.removeItem(e)}catch{}}export{r as n,n as r,i as t};

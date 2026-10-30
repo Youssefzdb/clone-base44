@@ -1,0 +1,1 @@
+import{o as e}from"./rolldown-runtime-C0FnF6B9.js";import{x as t}from"./vendor-react-BOOIA4XI.js";var n=e(t()),r=({size:e,...t})=>n.createElement(`svg`,{viewBox:`0 0 24 24`,fill:`currentColor`,width:e||`24`,height:e||`24`,...t},n.createElement(`path`,{d:`M16.25 11.25a.75.75 0 0 1 0 1.5h-8.5a.75.75 0 0 1 0-1.5h8.5Z`}));r.displayName=`Minus`;var i=r;export{i as t};

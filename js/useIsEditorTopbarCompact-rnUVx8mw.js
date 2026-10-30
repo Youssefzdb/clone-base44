@@ -1,0 +1,1 @@
+import{t as e}from"./esm-DmulnS_m.js";var t=1280;function n(){return e({maxWidth:t})}export{n as t};

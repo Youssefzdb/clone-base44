@@ -1,0 +1,1 @@
+var e=(e,t)=>new Date(e).toLocaleDateString(t,{month:`long`,day:`numeric`});export{e as t};

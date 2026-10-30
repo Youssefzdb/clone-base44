@@ -1,0 +1,1 @@
+var e=e=>`base44:imported-last-branch-projects:${e}`;function t(t){if(!t)return null;try{let n=JSON.parse(localStorage.getItem(e(t))??`null`);return Array.isArray(n)&&n.every(e=>typeof e==`string`)?n:null}catch{return null}}function n(t,n){if(!(!t||!n?.length))try{localStorage.setItem(e(t),JSON.stringify(n))}catch{}}export{n,t};

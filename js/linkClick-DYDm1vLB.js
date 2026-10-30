@@ -1,0 +1,1 @@
+function e(e){return e.metaKey||e.altKey||e.ctrlKey||e.shiftKey}function t(t,n){return t.button===0&&(!n||n===`_self`)&&!e(t)}export{t as n,e as t};

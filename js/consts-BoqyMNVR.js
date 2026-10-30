@@ -1,0 +1,1 @@
+var e=`flex-1 overflow-y-auto overflow-x-hidden overscroll-contain px-2 sm:px-4 pt-4 pb-20 [scrollbar-gutter:stable_both-edges]`,t=`max-w-[760px] mx-auto min-w-0`,n=`mt-2 ml-3 flex items-center gap-2`,r=`h-[52px]`;export{n as i,t as n,e as r,r as t};

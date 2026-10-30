@@ -1,0 +1,1 @@
+import{v as e}from"./vendor-react-BOOIA4XI.js";import{t}from"./utils-5ZRoP5r8.js";import{t as n}from"./section-utils-CplGVcj0.js";var r=e();function i({name:e,children:i}){return(0,r.jsx)(`div`,{id:n(e),className:t(`scroll-mt-space-6`,i!==void 0&&`empty:hidden`),children:i})}export{i as t};

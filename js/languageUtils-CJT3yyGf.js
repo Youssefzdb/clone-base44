@@ -1,0 +1,1 @@
+import{S as e}from"./useApprovedPartnerStatus-Cndzkdof.js";var t=t=>e(t),n=e=>t(e).join(`, `);export{t as n,n as t};

@@ -1,0 +1,1 @@
+import{t as e}from"./apiErrors-HeE0HITm.js";var t=e=>e?.response?.status,n=t=>e(t,`error_code`),r=e=>n(e)??(t(e)?`http_${t(e)}`:null)??e?.name??`unknown`,i=(e,t)=>{let n=e;return n?.response?.data?.message??n?.response?.data?.detail??n?.message??t};export{t as i,i as n,r,n as t};

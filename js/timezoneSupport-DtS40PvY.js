@@ -1,0 +1,1 @@
+var e=new Map;function t(t){let n=e.get(t);if(n===void 0){try{Intl.DateTimeFormat(void 0,{timeZone:t}),n=!0}catch{n=!1}e.set(t,n)}return n}export{t};

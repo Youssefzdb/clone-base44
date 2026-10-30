@@ -1,0 +1,1 @@
+var e={ANNOUNCEMENTS:`Announcements`,ANALYTICS:`Analytics`};e.ANNOUNCEMENTS,e.ANALYTICS;var t=[`admin`,`announcements`,`analytics`];function n(e){return`${e.getFullYear()}-${String(e.getMonth()+1).padStart(2,`0`)}-${String(e.getDate()).padStart(2,`0`)}`}function r(e=30){let t=new Date,r=new Date(t);return r.setDate(r.getDate()-(e-1)),{from:n(r),to:n(t)}}export{r as n,n as r,t};

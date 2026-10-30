@@ -1,0 +1,1 @@
+import{v as e}from"./vendor-react-BOOIA4XI.js";import{n as t}from"./AuthContext-DWLLqbbB.js";import{Jt as n,qt as r}from"./cant-radio.store-D7vzVh8P.js";var i=e();function a({prefillFields:e,...a}){let o=t(),s=n(o?.user?.id,e);return(0,i.jsx)(r,{...a,prefillFields:s})}export{a as t};

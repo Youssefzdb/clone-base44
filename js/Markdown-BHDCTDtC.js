@@ -1,0 +1,1 @@
+import{v as e}from"./vendor-react-BOOIA4XI.js";import{t}from"./lib-SXPHfgRc.js";import{t as n}from"./lib-VPRkwZTz.js";var r=e();function i({children:e}){return(0,r.jsx)(t,{className:`base44-markdown prose`,remarkPlugins:[n],children:e})}export{i as t};

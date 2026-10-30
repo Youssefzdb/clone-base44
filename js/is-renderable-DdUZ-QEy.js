@@ -1,0 +1,1 @@
+import{o as e}from"./rolldown-runtime-C0FnF6B9.js";import{x as t}from"./vendor-react-BOOIA4XI.js";var n=e(t(),1);function r(e){return e==null||typeof e==`boolean`||e===``?!1:Array.isArray(e)?e.some(r):(0,n.isValidElement)(e)&&e.type===n.Fragment?r(e.props.children):!0}export{r as t};

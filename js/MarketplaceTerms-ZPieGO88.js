@@ -1,0 +1,9 @@
+import{v as e}from"./vendor-react-BOOIA4XI.js";import{n as t}from"./I18nProvider-CiAkvXSX.js";import{t as n}from"./Markdown-BHDCTDtC.js";var r=e();function i(){let{t:e,currentLang:i}=t(),a=i===`en`?``:`/${i}`,o=`https://base44.com${a}/terms-of-service`,s=`https://base44.com${a}/privacy-policy`;return(0,r.jsx)(`div`,{className:`min-h-screen bg-gradient-to-br from-slate-50 to-slate-100`,children:(0,r.jsx)(`div`,{className:`max-w-4xl mx-auto px-6 py-12`,children:(0,r.jsxs)(`div`,{className:`bg-white rounded-2xl shadow-xl border border-slate-200 overflow-hidden`,children:[(0,r.jsxs)(`div`,{className:`bg-gradient-to-r from-orange-500 to-orange-600 px-8 py-6`,children:[(0,r.jsx)(`h1`,{className:`text-3xl font-bold text-white`,children:e(`header.title`)}),(0,r.jsx)(`p`,{className:`text-orange-100 mt-2`,children:e(`header.lastUpdated`)})]}),(0,r.jsx)(`div`,{className:`px-8 py-8`,children:(0,r.jsxs)(`div`,{className:`prose prose-slate max-w-none prose-headings:text-slate-800 prose-headings:font-semibold prose-p:text-slate-700 prose-p:leading-relaxed prose-strong:text-slate-900`,children:[(0,r.jsx)(`style`,{dangerouslySetInnerHTML:{__html:`
+                                    .marketplace-terms a {
+                                        color: #2563eb !important;
+                                        text-decoration: underline !important;
+                                    }
+                                    .marketplace-terms a:hover {
+                                        color: #1d4ed8 !important;
+                                    }
+                                `}}),(0,r.jsx)(`div`,{className:`marketplace-terms`,children:(0,r.jsx)(n,{children:e(`body`,{termsUrl:o,privacyUrl:s})})})]})})]})})})}export{i as default};

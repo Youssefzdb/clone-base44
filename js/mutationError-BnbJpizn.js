@@ -1,0 +1,1 @@
+import{K as e}from"./cant-radio.store-D7vzVh8P.js";var t=`That didn't work. Try again.`;function n(n){let r=n.reduce((e,t)=>t.submittedAt>e.submittedAt?t:e);return r.error?e(r.error,t):null}export{n as t};

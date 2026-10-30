@@ -1,0 +1,1 @@
+var e=`/static/imessage-connect-phone-Do7A9Wox.png`;export{e as t};

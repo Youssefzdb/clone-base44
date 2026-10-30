@@ -1,0 +1,1 @@
+var e=`inline-flex items-center justify-center gap-1 px-1.5 h-5 text-xs font-medium rounded-md border border-[#FFCBB4] text-[#FF631F] bg-gradient-to-r from-orange-50 to-orange-100`;export{e as t};

@@ -1,0 +1,1 @@
+import{o as e}from"./rolldown-runtime-C0FnF6B9.js";import{x as t}from"./vendor-react-BOOIA4XI.js";import{n}from"./GitHubWriteAccessProvider-DOsphBU4.js";var r=e(t());function i(){let e=n(),t=(0,r.useRef)(e);return t.current=e,(0,r.useCallback)(()=>t.current?.canWrite?.()??!t.current?.restriction,[])}export{i as t};

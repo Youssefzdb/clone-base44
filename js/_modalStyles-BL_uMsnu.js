@@ -1,0 +1,1 @@
+var e=[`p`,`strong`,`em`,`u`,`a`,`ul`,`ol`,`li`,`code`,`br`],t={xs:`text-xs`,sm:`text-sm`,base:`text-base`,lg:`text-lg`,xl:`text-xl`},n={small:`text-2xl`,default:``,large:`text-4xl`},r=/\.(mp4|webm|mov|m4v|ogg|ogv)$/i;function i(e){return!!e&&r.test(e.split(/[?#]/,1)[0])}function a(e){return e===`image-left`||e===`image-right`}export{i as a,a as i,t as n,n as r,e as t};

@@ -1,0 +1,1 @@
+function e(e){let t=e?.response?.status;return t===400?`invalid`:t===429?`rateLimited`:t===502||t===504?`timeout`:`failed`}export{e as t};

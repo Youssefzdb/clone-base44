@@ -1,0 +1,1 @@
+import{C as e}from"./backend-4ZrxM0vc.js";import{o as t}from"./baseProductDefs-DZhazATd.js";var n=`connectors`,r=`open`,i=`/?${n}=${r}`;function a(){let{mostRecentSuperagent:n}=t(!0);return n?`${e.SUPERAGENT}/${n.id}`:e.SUPERAGENT}export{r as i,i as n,n as r,a as t};

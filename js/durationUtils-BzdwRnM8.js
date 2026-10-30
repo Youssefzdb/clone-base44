@@ -1,0 +1,1 @@
+function e(e){return e<1?`${Math.round(e*1e3)}ms`:e<60?`${e.toFixed(1)}s`:`${Math.floor(e/60)}m ${Math.round(e%60)}s`}function t(t){return e(t/1e3)}function n(t){return t<1||t>=60?e(t):`${t.toFixed(1)} seconds`}export{t as n,n as r,e as t};

@@ -1,0 +1,1 @@
+import{o as e}from"./rolldown-runtime-C0FnF6B9.js";import{x as t}from"./vendor-react-BOOIA4XI.js";var n=e(t()),r=({size:e,...t})=>n.createElement(`svg`,{viewBox:`0 0 18 18`,fill:`currentColor`,width:e||`18`,height:e||`18`,...t},n.createElement(`path`,{d:`M9 7a2 2 0 1 1 0 4 2 2 0 0 1 0-4Z`}));r.displayName=`CircleSmallFilledSmall`;var i=r;export{i as t};

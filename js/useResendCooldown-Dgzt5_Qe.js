@@ -1,0 +1,1 @@
+import{o as e}from"./rolldown-runtime-C0FnF6B9.js";import{x as t}from"./vendor-react-BOOIA4XI.js";var n=e(t());function r(e=30){let[t,r]=(0,n.useState)(0);return(0,n.useEffect)(()=>{if(t<=0)return;let e=setInterval(()=>{r(e=>e<=1?0:e-1)},1e3);return()=>clearInterval(e)},[t]),{cooldown:t,startCooldown:()=>r(e),resetCooldown:()=>r(0)}}export{r as t};

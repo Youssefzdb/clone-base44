@@ -1,0 +1,1 @@
+function e(e,t,n){let r=e;t({title:`Error`,description:r?.response?.data?.detail||r?.response?.data?.message||n,variant:`destructive`})}export{e as t};

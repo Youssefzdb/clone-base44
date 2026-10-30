@@ -1,0 +1,1 @@
+function e(e,t){return e?e.replace(/( \(Copy\))+$/,e=>{let n=(e.match(/ \(Copy\)/g)??[]).length;return` ${t}`.repeat(n)}):e??``}export{e as t};

@@ -1,0 +1,1 @@
+import{t as e}from"./moment-CbrR2L3o.js";function t(t){if(!t)return``;let n=e.utc(t,e.ISO_8601);return n.isValid()?n.fromNow():``}export{t};

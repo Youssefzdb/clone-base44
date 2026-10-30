@@ -1,0 +1,1 @@
+var e=e=>new Promise(t=>setTimeout(t,e));async function t(t){for(let n=0;;n+=1)try{return await t()}catch(t){let r=t.response;if(r?.status!==429||n>=6)throw t;await e(Math.min(Number(r.headers?.[`retry-after`])||10,60)*1e3)}}export{t};

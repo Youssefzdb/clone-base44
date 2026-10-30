@@ -1,0 +1,1 @@
+import{n as e}from"./AuthContext-DWLLqbbB.js";import{n as t,t as n}from"./permissions-BjVoHni4.js";function r(){let{user:r}=e();return t(r,n.MARKETING_ACTIVATE)}export{r as t};

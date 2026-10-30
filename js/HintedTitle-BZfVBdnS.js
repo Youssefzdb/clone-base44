@@ -1,0 +1,1 @@
+import{v as e}from"./vendor-react-BOOIA4XI.js";import{A as t}from"./apiErrors-HeE0HITm.js";import{Vu as n}from"./cant-radio.store-DV7XPNKK.js";var r=e();function i({hint:e,children:i}){return(0,r.jsxs)(t,{preset:`row`,gap:1,align:`center`,children:[i,(0,r.jsx)(n,{hint:e})]})}export{i as t};

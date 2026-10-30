@@ -1,0 +1,1 @@
+var e=e=>t=>Object.keys(e).reduce((n,r)=>({...n,[r]:(...n)=>e[r]({store:t},...n)}),{});export{e as t};

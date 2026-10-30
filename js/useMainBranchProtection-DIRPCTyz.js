@@ -1,0 +1,1 @@
+import{n as e}from"./I18nProvider-CiAkvXSX.js";import{r as t}from"./AppContext-CReki4ul.js";function n(n=!1){let{app:r,currentBranchId:i}=t()??{},{t:a}=e(`editor`),o=r?.main_branch_protected===!0&&(n||!i);return{restricted:o,reason:o?a(n?`branches.restricted.mainOnly`:`branches.restricted.editOnBranch`):void 0}}export{n as t};

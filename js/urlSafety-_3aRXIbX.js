@@ -1,0 +1,1 @@
+function e(e){if(!e)return!1;try{return[`http:`,`https:`].includes(new URL(e).protocol)}catch{return!1}}export{e as t};

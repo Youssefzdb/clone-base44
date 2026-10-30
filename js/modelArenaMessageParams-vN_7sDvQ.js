@@ -1,0 +1,1 @@
+var e=`current`,t=({from_mobile:e,app_type:t,integrations:n,connectors:r,model:i,initial_model:a,secrets:o,branding_id:s})=>!e&&t!==`mobile_app`&&!n?.length&&!r?.length&&!i&&!a&&!s&&Object.keys(o??{}).length===0;export{t as n,e as t};

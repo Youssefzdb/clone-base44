@@ -1,0 +1,1 @@
+import{v as e}from"./vendor-react-BOOIA4XI.js";import{B as t}from"./OAuthRedirectReturnHandler-Bqquz9Sc.js";import{t as n}from"./OrganizationTab-DywxYaFH.js";var r=e();function i(){return(0,r.jsxs)(`div`,{className:`container mx-auto py-10 px-4`,children:[(0,r.jsx)(`h1`,{className:`text-3xl font-bold mb-6`,children:t}),(0,r.jsx)(n,{})]})}export{i as default};

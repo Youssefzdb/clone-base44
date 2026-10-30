@@ -1,0 +1,1 @@
+import{dl as e}from"./cant-radio.store-D7vzVh8P.js";import{c as t,s as n}from"./use-sortable-item-D6gwzIVj.js";function r(r,{disabled:i}={}){let{setNodeRef:a,isOver:o}=e({id:t(r),disabled:i,data:{role:n,targetId:r}});return{setNodeRef:a,isOver:o}}export{r as t};

@@ -1,0 +1,1 @@
+import{y as e}from"./vendor-data-DCUikwl_.js";import{S as t}from"./apiErrors-BNwL6S8o.js";import{t as n}from"./WorkspaceAPI-XF9JgO-5.js";var r=`workspace-member-names`;function i(e){return{queryKey:[r,e],queryFn:()=>n.getMembers(e),...t.STATIC}}function a(t,n){let r=n&&!!t,{data:a}=e({...i(t??``),enabled:r});return r?a?.members??[]:[]}export{i as n,a as t};

@@ -1,0 +1,1 @@
+function e(e){let t=e?.is_unlocked_for_session===!1,n=e?.mfa_required===!0;return{isUnlocked:!t&&!n,requiresSso:!!e?.sso_required,requiresMfa:n,ssoProviderName:e?.sso_provider_name??null}}export{e as t};

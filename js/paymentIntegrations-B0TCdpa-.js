@@ -1,0 +1,1 @@
+function e(e){return Object.values(e??{}).some(n)}function t(e){return n(e?.stripe)||n(e?.paypal)||n(e?.wix_payments)||n(e?.payments_by_wix)}function n(e){let t=typeof e==`object`?e?.status:e;return!!t&&t!==`disconnected`}export{t as n,e as t};

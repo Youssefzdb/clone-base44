@@ -1,0 +1,1 @@
+import{C as e}from"./backend-4ZrxM0vc.js";var t=(t,n=``)=>t.startsWith(e.SUPERAGENT)||t.startsWith(e.CLONE_SUPERAGENT_TEMPLATE)||t===`/apps`&&n.includes(`app_type=agents`),n=t=>RegExp(`^${e.SUPERAGENT}/[^/]`).test(t);export{t as n,n as t};

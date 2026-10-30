@@ -1,0 +1,1 @@
+import{o as e}from"./rolldown-runtime-C0FnF6B9.js";import{x as t}from"./vendor-react-BOOIA4XI.js";var n=e(t()),r=200;function i(e){let t=(0,n.useRef)(0);return e&&(t.current=Date.now()),e=>{Date.now()-t.current>r||(e.preventDefault(),e.stopPropagation())}}export{i as t};

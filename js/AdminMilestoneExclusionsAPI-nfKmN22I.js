@@ -1,0 +1,1 @@
+import{n as e}from"./base-eBCdTrda.js";var t=new class extends e{getBaseURL(){return`/admin/milestone-exclusions`}list(){return this.axios.get(``)}add(e){return this.axios.post(``,e)}remove(e){return this.axios.delete(`/${encodeURIComponent(e)}`)}};export{t};

@@ -1,0 +1,1 @@
+var e=/\.(mp4|webm)(\?|#|$)/i,t=t=>e.test(t);export{t};

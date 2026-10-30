@@ -1,0 +1,1 @@
+import{n as e}from"./AuthContext-BxpFUehZ.js";import{Hc as t,in as n}from"./cant-radio.store-DV7XPNKK.js";import{r}from"./AppContext-CajM4h_8.js";function i(){let{app:i}=r()??{},{user:a}=e(),{workspaces:o}=t(),s=o.find(e=>e.id===i?.organization_id);return!!a?.id&&String(a?.id)===String(i?.owner_id)||n(s?.user_role)}export{i as t};

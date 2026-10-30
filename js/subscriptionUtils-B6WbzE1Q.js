@@ -1,0 +1,1 @@
+var e=(e,t=!0)=>{if(!e)return``;let n=e.replace(/_(ils|eur|gbp|brl|aud)$/gi,``);return t||(n=n.replace(/_yearly/gi,``)),n.split(`_`).map(e=>e.charAt(0).toUpperCase()+e.slice(1).toLowerCase()).join(` `)};export{e as t};

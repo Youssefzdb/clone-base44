@@ -1,0 +1,1 @@
+import{t as e}from"./useCanEdit-DWD1Tkcl.js";function t(){let{canEdit:t,isRoleResolved:n}=e();return n&&t}export{t};

@@ -1,0 +1,1 @@
+import{o as e}from"./rolldown-runtime-C0FnF6B9.js";import{x as t}from"./vendor-react-BOOIA4XI.js";var n=e(t());function r(e){let{hasNextPage:t,isFetchingNextPage:r,isError:i,fetchNextPage:a}=e,o=e.data?.pages.length??0;(0,n.useEffect)(()=>{t&&!r&&!i&&a()},[o,t,r,i,a])}export{r as t};

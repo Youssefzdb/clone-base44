@@ -1,0 +1,1 @@
+var e=[`panel`,`channel`,`settings`];function t(t,n,r=e){let[i,a=``]=t.split(`?`,2),o=new URLSearchParams(n);r.forEach(e=>o.delete(e)),new URLSearchParams(a).forEach((e,t)=>{o.set(t,e)});let s=o.toString();return`${i}${s?`?${s}`:``}`}export{t};

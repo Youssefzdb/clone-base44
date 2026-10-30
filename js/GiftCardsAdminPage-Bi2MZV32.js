@@ -1,0 +1,1 @@
+import{v as e}from"./vendor-react-BOOIA4XI.js";import{t}from"./GiftCardsTab-GeEfMd1F.js";var n=e();function r(){return(0,n.jsx)(`div`,{className:`container mx-auto py-10 px-4`,children:(0,n.jsx)(t,{})})}export{r as default};

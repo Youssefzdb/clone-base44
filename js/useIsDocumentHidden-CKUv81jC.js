@@ -1,0 +1,1 @@
+import{o as e}from"./rolldown-runtime-C0FnF6B9.js";import{x as t}from"./vendor-react-BOOIA4XI.js";var n=e(t()),r=()=>{let[e,t]=(0,n.useState)(()=>document.hidden);return(0,n.useEffect)(()=>{let e=()=>t(document.hidden);return document.addEventListener(`visibilitychange`,e),()=>document.removeEventListener(`visibilitychange`,e)},[]),e};export{r as t};

@@ -1,0 +1,1 @@
+function e(e,...t){let n={component:e};for(let r of t)n[r]=`${e}-${r}`;return n}export{e as t};

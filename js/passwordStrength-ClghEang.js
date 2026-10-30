@@ -1,0 +1,1 @@
+var e=e=>{let t=e.length>=8,n=/[a-z]/.test(e)&&/[A-Z]/.test(e),r=0;t&&r++,n&&r++;let i=`Weak password`;return r>=2&&(i=`Strong password`),{score:r,label:i,hasMinLength:t,hasUpperLower:n}};export{e as t};

@@ -1,0 +1,1 @@
+var e=`workspace_mfa_block_pending`;function t(t,n){try{sessionStorage.setItem(e,JSON.stringify({workspaceId:t,workspaceName:n}))}catch{}}function n(){try{sessionStorage.removeItem(e)}catch{}}function r(){try{let t=sessionStorage.getItem(e);sessionStorage.removeItem(e);let n=t?JSON.parse(t):null;return n?.workspaceId?n:null}catch{return null}}export{r as n,t as r,n as t};

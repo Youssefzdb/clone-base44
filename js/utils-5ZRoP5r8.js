@@ -1,0 +1,1 @@
+import{Et as e,Tt as t}from"./vendor-utils-Bw7_Viod.js";function n(...n){return t(e(n))}export{n as t};

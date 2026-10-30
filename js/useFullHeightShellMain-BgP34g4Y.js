@@ -1,0 +1,1 @@
+import{o as e}from"./rolldown-runtime-C0FnF6B9.js";import{x as t}from"./vendor-react-BOOIA4XI.js";var n=e(t());function r(){(0,n.useLayoutEffect)(()=>{let e=document.querySelector(`[data-app-scroll-container="true"] main`);if(!e)return;let t=e.style.minHeight;return e.style.minHeight=`0`,()=>{e.style.minHeight=t}},[])}export{r as t};

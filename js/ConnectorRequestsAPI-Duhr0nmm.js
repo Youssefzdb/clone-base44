@@ -1,0 +1,1 @@
+import{n as e}from"./base-eBCdTrda.js";var t=new class extends e{getBaseURL(){return`/connector-requests`}create(e){return this.axios.post(``,e)}};export{t};

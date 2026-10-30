@@ -1,0 +1,1 @@
+import"./rolldown-runtime-C0FnF6B9.js";import{v as e,x as t}from"./vendor-react-BOOIA4XI.js";import{t as n}from"./ReadableJSONSchema-Cw31IpFL.js";import{r}from"./AppContext-CReki4ul.js";t();var i=e(),a=({entity:e})=>{let{app:t,updateApp:a}=r();return(0,i.jsx)(n,{schema:e,onEdit:(n,r)=>{e.properties[n]=r,t.user_entity=e,a({user_entity:t.user_entity})}})};export{a as t};

@@ -1,0 +1,1 @@
+var e=`marketing_page_category`;function t(t){let n=new URLSearchParams(t),r=n.get(e);if(r)return r;let i=n.get(`from_url`);if(!i)return null;try{return new URL(i,`https://base44.com`).searchParams.get(`marketing_page_category`)||null}catch{return null}}function n(){return typeof window>`u`?null:t(window.location.search)}export{t as n,n as r,e as t};

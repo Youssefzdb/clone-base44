@@ -1,0 +1,1 @@
+var e=e=>e?.response?.data?.error?.code;function t(t){return e(t)===`model_compare_free_limit_reached`}function n(t){let n=e(t);return n===`model_compare_sponsorship_unavailable`||n===`model_compare_free_limit_reached`}export{n,t};

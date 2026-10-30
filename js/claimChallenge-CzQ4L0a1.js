@@ -1,0 +1,1 @@
+var e=e=>{let t=e;return typeof t?.name==`string`&&typeof t?.value==`string`},t=t=>{let n=t?.response?.data?.detail;if(!n||typeof n!=`object`)return null;let{message:r,verification:i}=n;return e(i)?{message:typeof r==`string`?r:``,verification:i}:null};export{t};

@@ -1,0 +1,1 @@
+var e=`ferpa_app_copy_out_blocked`;export{e as t};

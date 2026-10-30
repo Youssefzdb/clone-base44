@@ -1,0 +1,1 @@
+import{t as e}from"./BillingAPI-DTHswWdi.js";import{t}from"./UsageLogsAPI-DkHK-zaf.js";var n={billingInfo:(e,t=!1)=>[`billing-info`,e,...t?[`all-provider-invoices`]:[]],stats:e=>[`stats`,e],statsAll:[`stats`]},r=(t,n=!1,r=!1)=>e.getBillingInfo(t,n,r),i=e=>t.getStats(e);export{r as n,i as r,n as t};

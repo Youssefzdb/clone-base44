@@ -1,0 +1,1 @@
+import{nn as e}from"./cant-radio.store-D7vzVh8P.js";function t(t,{create:n=!1}={}){let r=e(t,`brand`);return n?`${r}?create=1`:r}export{t};

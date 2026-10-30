@@ -1,0 +1,1 @@
+import{v as e}from"./vendor-react-BOOIA4XI.js";import{a as t}from"./useDesignSystem-CVilD4PW.js";var n=`/static/base44-loader-BCuqxBO7.webp`,r=e(),i=`invert(1) hue-rotate(180deg)`,a=`bg-[var(--neutral-900)]`;function o({size:e=160}){let a=t().mode===`dark`;return(0,r.jsx)(`img`,{src:n,alt:``,width:e,height:e,style:{width:e,height:e,filter:a?i:void 0}})}export{a as n,o as t};

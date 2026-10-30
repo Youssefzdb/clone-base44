@@ -1,0 +1,1 @@
+function e(e){let t=e?.trim();if(t)return`data:image/svg+xml;charset=utf-8,${encodeURIComponent(t)}`}export{e as t};

@@ -1,0 +1,1 @@
+import{t as e}from"./useCanEdit-CrnaQ7co.js";function t(){let{canEdit:t,isRoleResolved:n}=e();return n&&t}export{t};

@@ -1,0 +1,1 @@
+var e={1:`#229954`,2:`#56afcc`,3:`#ff78f2`,4:`#ff6617`,5:`#2b2b2b`},t={1:[`#f5f5f4`,`#ebebeb`,`#c0c0c0`,`#929292`],2:[`#f0fcf2`,`#d9ecdd`,`#bddbc2`,`#70b280`],3:[`#e3e9ff`,`#ccd6ff`,`#aab9ff`,`#7e90f5`],4:[`#c0c0c0`,`#929292`,`#5d5d5d`,`#252424`],5:[`#FFF5EF`,`#FFE8DB`,`#FFD0B8`,`#FF8E5D`]};export{t as n,e as t};

@@ -1,0 +1,1 @@
+import{o as e}from"./rolldown-runtime-C0FnF6B9.js";import{t}from"./runtime-QtgwY_nV.js";import{d as n,x as r}from"./vendor-react-BOOIA4XI.js";var i=e(r());function a(){let e=n();return(0,i.useEffect)(()=>{window.location.replace(`${t()}${e.pathname}${e.search}${e.hash}`)},[e]),null}export{a as default};

@@ -1,0 +1,1 @@
+import{y as e}from"./vendor-data-DCUikwl_.js";import{S as t}from"./apiErrors-HeE0HITm.js";import{i as n,s as r,t as i}from"./useRuntimeEntityHeaders-BaU9MDPI.js";function a(a,o=!0){let s=i();return e({queryKey:n(a),queryFn:()=>r.getAppInfo(a,s),enabled:o&&!!a&&!!s,...t.REALTIME})}export{a as t};

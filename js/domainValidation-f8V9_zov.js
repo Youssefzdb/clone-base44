@@ -1,0 +1,1 @@
+var e=e=>e.trim()?{isValid:/^(?=.{1,253}$)(?:[a-z0-9](?:[a-z0-9-]{0,61}[a-z0-9])?\.)+(?:[a-z]{2,63}|xn--[a-z0-9](?:[a-z0-9-]{0,57}[a-z0-9])?)$/i.test(e)}:{isValid:!1},t=e=>e.toLowerCase().trim();export{e as n,t};

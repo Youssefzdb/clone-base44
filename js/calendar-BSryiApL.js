@@ -1,0 +1,1 @@
+import"./rolldown-runtime-C0FnF6B9.js";import{v as e,x as t}from"./vendor-react-BOOIA4XI.js";import{t as n}from"./calendar-1nZx1Oqf.js";t();var r=e();function i({className:e,classNames:t,showOutsideDays:i=!0,...a}){return(0,r.jsx)(n,{className:e,classNames:t,showOutsideDays:i,...a})}i.displayName=`Calendar`;export{i as t};

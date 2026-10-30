@@ -1,0 +1,1 @@
+import{r as e}from"./AppContext-CajM4h_8.js";function t(){let{app:t}=e();return t?.custom_auth_enrolled??!1}function n(){let{app:n}=e(),r=t(),i=n?.draft_public_settings??n?.public_settings;return r&&i===`public_without_login`}export{t as n,n as t};

@@ -1,0 +1,1 @@
+import{r as e}from"./domainValidation-FMKryCR2.js";function t(t){let n=e(new URLSearchParams(t).get(`from_url`),`/login`),r=n===`/login`?``:`?${new URLSearchParams({from_url:n})}`;return{loginUrl:n,forgotPasswordUrl:`/forgot-password${r}`,checkEmailUrl:`/check-email${r}`}}export{t};

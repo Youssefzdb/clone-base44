@@ -1,0 +1,1 @@
+import{o as e,v as t}from"./vendor-react-BOOIA4XI.js";import{n}from"./WebApp-BnbYXrHo.js";var r=t();function i(){let t=new URLSearchParams(window.location.search).get(`section`),i=window.location.hash||(t?`#${t}`:``);return(0,r.jsx)(e,{to:n(i),replace:!0})}export{i as default};

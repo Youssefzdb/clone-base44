@@ -1,0 +1,1 @@
+import{h as e,o as t,v as n}from"./vendor-react-BOOIA4XI.js";import{jn as r}from"./cant-radio.store-DV7XPNKK.js";var i=n();function a(){let{appId:n}=e(),a=n?`/apps/${n}/editor/preview`:`/last-app/editor/preview`;return(0,i.jsx)(t,{to:`${a}?${r}=1`,replace:!0})}export{a as default};

@@ -1,0 +1,1 @@
+var e=[`standard`,`stone`,`accent`,`success`,`destructive`,`pending`,`verified`,`premium`,`recommended`,`pink`],t={is_public:!1,plan_in:null,subscription_tier_in:null,country_in:null,locale_in:null,flag_required:null,flag_variant_in:null,workspace_role_in:null,min_account_age_days:0,credits_remaining_in:null,page_url_in:null};export{e as n,t};

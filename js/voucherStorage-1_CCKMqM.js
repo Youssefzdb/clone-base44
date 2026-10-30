@@ -1,0 +1,1 @@
+var e=`wix_builder_voucher_pending:v1`;function t(){try{new URLSearchParams(window.location.search).get(`utm_source`)===`wix_prem_refferal`&&localStorage.setItem(e,`1`)}catch{}}function n(){try{return localStorage.getItem(e)===`1`}catch{return!1}}function r(){try{localStorage.removeItem(e)}catch{}}export{r as n,n as r,t};

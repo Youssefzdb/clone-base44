@@ -1,0 +1,1 @@
+function e(e){return e.winner_selection===`judged_shortlist`}function t(t,n){return e(t)&&n&&!t.results_published_at}export{e as n,t};

@@ -1,0 +1,1 @@
+var e=[`too_expensive`,`no_results`,`taking_a_break`,`other`];export{e as t};

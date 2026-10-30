@@ -1,0 +1,1 @@
+var e={current:null,set(e){this.current=e},clear(e){this.current===e&&(this.current=null)}};function t(t){let{current:n}=e;n?n(t):t()}export{e as n,t};

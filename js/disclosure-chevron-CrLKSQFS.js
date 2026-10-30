@@ -1,0 +1,1 @@
+var e=e=>e?`rotate-0`:`-rotate-90 rtl:rotate-90`;export{e as t};
