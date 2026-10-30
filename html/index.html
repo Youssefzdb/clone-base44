@@ -6,6 +6,7 @@
   <meta name="theme-color" content="#0b0b0e" />
   <meta name="description" content="Base44-style AI app builder workspace" />
   <title>Base44 — Build useful apps, fast</title>
+  <style>.full-grid{grid-template-columns:repeat(3,minmax(0,1fr))}.full-templates{grid-template-columns:repeat(2,minmax(0,1fr));margin-top:20px}.settings-card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:24px;max-width:760px}.settings-card h2{margin:0 0 8px}.settings-card p{color:var(--muted);margin:0 0 24px}.setting-row{display:flex;align-items:center;justify-content:space-between;border-top:1px solid var(--line);padding:18px 0}.setting-row span{display:flex;flex-direction:column;gap:5px}.setting-row small,.app-status{color:var(--muted);font-size:12px}.app-status{display:block;margin-top:10px}@media(max-width:800px){.full-grid,.full-templates{grid-template-columns:1fr}}</style>
   <link rel="stylesheet" href="./style.css" />
   <link rel="stylesheet" href="./light.css" />
 </head>
@@ -22,9 +23,9 @@
       </nav>
       <div class="nav-label">Workspace</div>
       <nav class="nav">
-        <button class="nav-item"><span>◇</span> Members</button>
-        <button class="nav-item"><span>⌁</span> Integrations</button>
-        <button class="nav-item"><span>⚙</span> Settings</button>
+        <button class="nav-item" data-view="members"><span>◇</span> Members</button>
+        <button class="nav-item" data-view="integrations"><span>⌁</span> Integrations</button>
+        <button class="nav-item" data-view="settings"><span>⚙</span> Settings</button>
       </nav>
       <div class="sidebar-bottom">
         <div class="usage"><div class="usage-title"><span>Plan usage</span><strong>68%</strong></div><div class="progress"><i></i></div><small>68 of 100 credits used</small></div>
